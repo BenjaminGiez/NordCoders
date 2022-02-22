@@ -1,0 +1,16 @@
+{
+    "name": "acs/nord-coders",
+    "authors": [
+        {
+            "name": "BenjaminGiez",
+            "email": "benjamin.giez@outlook.fr"
+        }
+    ],
+
+    "autoload": {
+        "psr-4": {
+            "Router\\": "routes/" 
+        }
+    },
+    "require": {}
+}
