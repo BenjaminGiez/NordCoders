@@ -1,2 +1,0 @@
-# NordCoders
-Exercice poo
